@@ -1,30 +1,30 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="TV1" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" tvg-name="TV1"  group-title="MALAYSIA",TV1
+#EXTINF:0, tvg-id="TV1" tvg-logo="https://raw.githubusercontent.com/joharikampong/TV/master/Channel/tv1.jpg" tvg-name="TV1"  group-title="MALAYSIA",TV1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="TV2" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv2_webos.jpg" tvg-name="TV2"  group-title="MALAYSIA",TV2
+#EXTINF:0, tvg-id="TV2" tvg-logo="https://raw.githubusercontent.com/joharikampong/TV/master/Channel/tv2.jpg" tvg-name="TV2"  group-title="MALAYSIA",TV2
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, tvg-id="TV3" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" tvg-name="TV3"  group-title="MALAYSIA",TV3
+#EXTINF:0, tvg-id="TV3" tvg-logo="https://raw.githubusercontent.com/joharikampong/TV/master/Channel/tv3.jpg" tvg-name="TV3"  group-title="MALAYSIA",TV3
 http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
 
-#EXTINF:0, tvg-id="NTV7" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
+#EXTINF:0, tvg-id="NTV7" tvg-logo="https://raw.githubusercontent.com/joharikampong/TV/master/Channel/NTV7.jpg" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
 http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
 
-#EXTINF:0, tvg-id="8TV" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" tvg-name="8TV"  group-title="MALAYSIA",8TV
+#EXTINF:0, tvg-id="8TV" tvg-logo="https://raw.githubusercontent.com/joharikampong/TV/master/Channel/8TV.jpg" tvg-name="8TV"  group-title="MALAYSIA",8TV
 http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
 
-#EXTINF:0, tvg-id="TV9" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv9a_webos.jpg" tvg-name="TV9"  group-title="MALAYSIA",TV9
+#EXTINF:0, tvg-id="TV9" tvg-logo="https://raw.githubusercontent.com/joharikampong/TV/master/Channel/TV9.jpg" tvg-name="TV9"  group-title="MALAYSIA",TV9
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
-#EXTINF:0, tvg-id="AWANI" tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/awani_webos.jpg" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
+#EXTINF:0, tvg-id="AWANI" tvg-logo="https://raw.githubusercontent.com/joharikampong/TV/master/Channel/Awani.jpg" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/aa/al_jazeera_english_hd.png" tvg-name="AL JAZEERA ENGLISH"  group-title="NEWS",AL JAZEERA ENGLISH
+#EXTINF:0, tvg-id="Aljazeera" tvg-logo="https://raw.githubusercontent.com/joharikampong/TV/master/Channel/aljazeera.jpg" tvg-name="AL JAZEERA ENGLISH"  group-title="MALAYSIA",ALJAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
-#EXTINF: -1, Sony Movie Network
+#EXTINF:0, tvg-id="SonyMovieNetwork" tvg-logo="https://raw.githubusercontent.com/joharikampong/TV/master/Channel/SonyMovieNetwork.jpg" tvg-name="Sony Movie Network"  group-title="MALAYSIA",Sony Movie Network
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0, Channel 5
